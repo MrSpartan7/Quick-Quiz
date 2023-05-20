@@ -1,0 +1,10 @@
+h1 {
+    color: yellow; /* Color del texto */
+    font-size: 50px; /* Tamaño de la fuente */
+    font-weight: bold; /* Grosor de la fuente */
+    text-align: center; /* Alineación del texto */
+    text-transform: uppercase; /* Transformación del texto a mayúsculas */
+    text-decoration: dashed;
+    text-shadow: black;
+    /* Otros estilos aquí */
+  }

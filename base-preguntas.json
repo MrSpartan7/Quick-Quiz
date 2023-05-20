@@ -1,0 +1,94 @@
+[
+    {
+        "categoria" : "Música",
+        "pregunta": "¿Quíen compuso Bohemian Rhapsody?",
+        "respuesta": "Queen",
+        "incorrecta1": "The Rolling Stones",
+        "incorrecta2" : "The Beatles",
+        "incorrecta3" : "Elvis Presley",
+        "imagen": "https://www.sopitas.com/wp-content/uploads/2018/09/bohemian-mercury-historia.jpg", 
+        "object_fit" : "cover"
+        
+    },
+
+
+    {
+        "categoria" : "Música",
+        "pregunta": "¿A quien se le reconocía como   \"El Rey del rock and roll\" ",
+        "respuesta": "Elvis Presley",
+        "incorrecta1": "Michael Jackson",
+        "incorrecta2" : "Prince",
+        "incorrecta3" : "Frank Sinatra \r"
+        
+
+
+    },
+
+
+    {
+        "categoria" : "Música",
+        "pregunta": "¿Quien interpretó y escribrió la cancion \"Imagine\" ",
+        "respuesta" : "John Lennon",
+        "incorrecta1": "Elton John",
+        "incorrecta2": "The Rolling Stones",
+        "incorrecta3" : "The Beatles \r"
+        
+        
+    },
+
+    
+    {
+        "categoria" : "Música",
+        "pregunta": "¿Qué cantante ganó el Oscar por \"Mejor Canción Original\" además de actuar en la pelicula \"8 Mile\" ",
+        "respuesta" : "Eminem",
+        "incorrecta1": "Adele",
+        "incorrecta2": "Phil Collins",
+        "incorrecta3" : "Leonardo DiCaprio \r"
+        
+        
+    },
+
+    {
+        "categoria" : "Deportes",
+        "pregunta": "¿Que futbolista es llamado como \"O Rei\" ",
+        "respuesta" : "Pelé",
+        "incorrecta1": "Ronaldo Nazario",
+        "incorrecta2": "Kylian Mbappe",
+        "incorrecta3" : "Lionel Messi \r"
+        
+        
+    },
+
+    {
+        "categoria" : "Deportes",
+        "pregunta": "¿Quuien posee el record mundial en los 100 metros lisos con un tiempor de 9.58 seg? ",
+        "respuesta" : "Usain Bolt",
+        "incorrecta1": "Maurice Greene",
+        "incorrecta2": "Donovan Bailey",
+        "incorrecta3" : "Carl Lewis\r"
+        
+        
+    },
+
+    {
+        "categoria" : "Deportes",
+        "pregunta": "¿En que año se jugó el primer mundial en México ? ",
+        "respuesta" : "1970",
+        "incorrecta1": "1986",
+        "incorrecta2": "2002",
+        "incorrecta3" : "2022 \r"
+        
+        
+    },
+
+    {
+        "categoria" : "Deportes",
+        "pregunta": "¿Quien  es el jugador con más balones de oro? ",
+        "respuesta" : "Lionel Messi",
+        "incorrecta1": "Crsitiano Ronaldo",
+        "incorrecta2": "Alfredo Di Stefano",
+        "incorrecta3" :  "Alfredo Di Stefano\r"
+    }
+
+
+]
